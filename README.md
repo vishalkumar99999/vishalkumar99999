@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate software developer who loves co
 
 🔭 I’m currently working on Full stack development.
 
-🌱 I’m learning docker.
+🌱 I’m learning DevOps.
 
 💬 Ask me about Web development, Web designing, App development or Full Stack development.
 
