@@ -38,4 +38,4 @@ Much more...
 
 🤝 Connect with Me
 
-Email: vishalk@virtuzo.in
+Email: vishalk@enktechnologies.com
